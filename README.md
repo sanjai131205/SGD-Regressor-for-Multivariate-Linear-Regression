@@ -1,4 +1,4 @@
-Algorithm
+##Algorithm
 1.Start 2.Data Preparation 3.Hypothesis Definition 4. Cost Function 5.Parameter Update Rule 6.Iterative Training 7.Model evaluation 8.End
 
 Program:
